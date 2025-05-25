@@ -1,0 +1,44 @@
+Takeaway:
+1. Profile picture. (My own complete face.)
+2. Banner. (Related to the field I belong to.)
+3. Headline. (Undergraduate Computer Science Student.)
+   (a) Start with your current position.
+   (b) Add your skills (Ex.: C++, Python, etc.)
+   (c) Use "|" to create separation. 
+4. About. (Write it in first person form or one may describe oneself as a third person. One must write about their area of interest and about their experience.)
+5.  Enlist the skills that you possess.
+6. Mention your E-mail ID in your contact details section.
+7. Education. (One may mention about their experience and grades.)
+8. Experience. 
+   More info can be added:
+   (a) Publications.
+   (b) Projects. (Mention info about the project and skills used.)
+   (c) About certifications.
+   (d) Test Scores. (Ex.: GRE, GATE, etc.)
+9. Good Networking. 
+   (a) Reach out to alumni and professionals who are working in your interested field.
+   (b) Post about your projects, hackathons and even about your small achievements.
+10. Recommendations.
+11. Configure "Open To".
+12. Provide Services. (Add about your services with certain keywords.)
+13. Get your skills verified by LinkedIn. (By giving their tests.)
+14. Connecting with people.
+    (a) While writing the note one must only mention about themself and the reason to connect the respective person.
+    (b) While mailing the person use the following format:
+Hello xyz.
+
+Context. (About yourself in a simple way.)
+
+Ask. (Message) [While writing to an employer always try to give something.]
+
+15. Posts.
+    (a) Post regularly.
+    (b) Select couple of domain to post on.
+    (c) Make engaging posts. (Make them click on read more in just two lines.) [Add pictures.]
+    (d) Don't add links in the post. Add it in the comment.
+    (e) Use hashtags. (Don't make excessive use of it.)
+    (f) One can post following things:
+        (i) Projects.
+        (ii) Case Studies.
+        (iii) News.
+
